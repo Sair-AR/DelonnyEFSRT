@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\ADM\\Desktop\\EFSRT\\EFSRT_DELONNY\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6AE00174-7397-4D4C-BDD9-B9164AB48DF8}|Infraestructura.SQL.Negocios\\Infraestructura.SQL.Negocios.csproj|C:\\Users\\ADM\\Desktop\\EFSRT\\EFSRT_DELONNY\\infraestructura.sql.negocios\\productodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6AE00174-7397-4D4C-BDD9-B9164AB48DF8}|Infraestructura.SQL.Negocios\\Infraestructura.SQL.Negocios.csproj|c:\\users\\adm\\desktop\\efsrt\\efsrt_delonny\\infraestructura.sql.negocios\\productodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6AE00174-7397-4D4C-BDD9-B9164AB48DF8}|Infraestructura.SQL.Negocios\\Infraestructura.SQL.Negocios.csproj|solutionrelative:infraestructura.sql.negocios\\productodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A23BF00C-0861-4F53-B9AD-71ED54BDBC03}|EFSRT_DELONNY\\EFSRT_DELONNY.csproj|c:\\users\\adm\\desktop\\efsrt\\efsrt_delonny\\efsrt_delonny\\views\\producto\\mantlstproductos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A23BF00C-0861-4F53-B9AD-71ED54BDBC03}|EFSRT_DELONNY\\EFSRT_DELONNY.csproj|C:\\Users\\ADM\\Desktop\\EFSRT\\EFSRT_DELONNY\\efsrt_delonny\\views\\producto\\mantlstproductos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A23BF00C-0861-4F53-B9AD-71ED54BDBC03}|EFSRT_DELONNY\\EFSRT_DELONNY.csproj|solutionrelative:efsrt_delonny\\views\\producto\\mantlstproductos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,10 +33,6 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "productoDAO.cs",
@@ -44,7 +40,7 @@
               "RelativeDocumentMoniker": "Infraestructura.SQL.Negocios\\productoDAO.cs",
               "ToolTip": "C:\\Users\\ADM\\Desktop\\EFSRT\\EFSRT_DELONNY\\Infraestructura.SQL.Negocios\\productoDAO.cs",
               "RelativeToolTip": "Infraestructura.SQL.Negocios\\productoDAO.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAuwHwAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAuwH0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-26T14:35:03.153Z",
               "EditorCaption": ""
@@ -59,8 +55,7 @@
               "RelativeToolTip": "EFSRT_DELONNY\\Views\\Producto\\MantLstProductos.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-26T14:34:41.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T14:34:41.614Z"
             }
           ]
         },

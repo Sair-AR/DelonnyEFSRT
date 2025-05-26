@@ -12,6 +12,7 @@ using System.Threading.Tasks;
 
 namespace Infraestructura.SQL.Negocios
 {
+    //PRIMER CAMBIO Y AÑADIDO CORRECTAMENTE CUÑAAAAAOOOOO
     public class productoDAO : IProducto
     {
         public string Add(Producto registro)
