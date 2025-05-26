@@ -1,0 +1,6 @@
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\Dominio.Repositorio\bin\Debug\Dominio.Repositorio.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\Dominio.Repositorio\bin\Debug\Dominio.Repositorio.pdb
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\Dominio.Repositorio\obj\Debug\Dominio.Repositorio.csproj.AssemblyReference.cache
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\Dominio.Repositorio\obj\Debug\Dominio.Repositorio.csproj.CoreCompileInputs.cache
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\Dominio.Repositorio\obj\Debug\Dominio.Repositorio.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\Dominio.Repositorio\obj\Debug\Dominio.Repositorio.pdb

@@ -1,0 +1,184 @@
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\EFSRT_DELONNY.dll.config
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\EFSRT_DELONNY.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\EFSRT_DELONNY.pdb
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\csc.exe
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\csc.exe.config
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\csc.rsp
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\csi.exe
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\csi.exe.config
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\csi.rsp
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\Microsoft.Managed.Core.targets
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\Microsoft.Win32.Primitives.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.AppContext.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.Collections.Immutable.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.Console.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.Diagnostics.StackTrace.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.Globalization.Calendars.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.IO.Compression.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.IO.Compression.ZipFile.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.IO.FileSystem.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.IO.FileSystem.Primitives.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.Net.Http.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.Net.Sockets.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.Reflection.Metadata.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.Security.Cryptography.Encoding.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.Security.Cryptography.Primitives.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.Text.Encoding.CodePages.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.Threading.Tasks.Extensions.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.ValueTuple.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.Xml.ReaderWriter.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.Xml.XmlDocument.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.Xml.XPath.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.Xml.XPath.XDocument.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\vbc.exe
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\vbc.exe.config
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\vbc.rsp
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\VBCSCompiler.exe
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\VBCSCompiler.exe.config
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\Antlr3.Runtime.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\Dominio.Entidad.Negocio.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\Infraestructura.SQL.Negocios.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\Microsoft.Web.Infrastructure.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\Newtonsoft.Json.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\System.Web.Helpers.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\System.Web.Mvc.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\System.Web.Optimization.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\System.Web.Razor.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\System.Web.WebPages.Deployment.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\System.Web.WebPages.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\System.Web.WebPages.Razor.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\WebGrease.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\Dominio.Repositorio.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\Dominio.Entidad.Negocio.pdb
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\Infraestructura.SQL.Negocios.pdb
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\System.Web.Helpers.xml
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\System.Web.Mvc.xml
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\System.Web.Optimization.xml
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\System.Web.Razor.xml
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\System.Web.WebPages.xml
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\System.Web.WebPages.Deployment.xml
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\System.Web.WebPages.Razor.xml
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\Newtonsoft.Json.xml
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\Antlr3.Runtime.pdb
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\Dominio.Repositorio.pdb
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\es\System.Web.Helpers.resources.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\es\System.Web.Mvc.resources.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\es\System.Web.Optimization.resources.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\es\System.Web.Razor.resources.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\es\System.Web.WebPages.resources.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\es\System.Web.WebPages.Deployment.resources.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\bin\es\System.Web.WebPages.Razor.resources.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\obj\Debug\EFSRT_DELONNY.csproj.AssemblyReference.cache
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\obj\Debug\EFSRT_DELONNY.csproj.CoreCompileInputs.cache
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\obj\Debug\EFSRT_DE.60F2676A.Up2Date
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\obj\Debug\EFSRT_DELONNY.dll
+J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\EFSRT_DELONNY\obj\Debug\EFSRT_DELONNY.pdb
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\EFSRT_DELONNY.dll.config
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\EFSRT_DELONNY.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\EFSRT_DELONNY.pdb
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\csc.exe
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\csc.exe.config
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\csc.rsp
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\csi.exe
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\csi.exe.config
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\csi.rsp
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.AppContext.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.Console.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.IO.Compression.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.Net.Http.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.ValueTuple.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\vbc.exe
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\vbc.exe.config
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\vbc.rsp
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\VBCSCompiler.exe
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\Antlr3.Runtime.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\Dominio.Entidad.Negocio.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\Infraestructura.SQL.Negocios.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\Newtonsoft.Json.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\System.Web.Helpers.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\System.Web.Mvc.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\System.Web.Optimization.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\System.Web.Razor.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\System.Web.WebPages.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\System.Web.WebPages.Razor.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\WebGrease.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\Dominio.Repositorio.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\Dominio.Entidad.Negocio.pdb
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\Infraestructura.SQL.Negocios.pdb
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\System.Web.Helpers.xml
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\System.Web.Mvc.xml
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\System.Web.Optimization.xml
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\System.Web.Razor.xml
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\System.Web.WebPages.xml
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\System.Web.WebPages.Razor.xml
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\Newtonsoft.Json.xml
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\Antlr3.Runtime.pdb
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\Dominio.Repositorio.pdb
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\es\System.Web.Razor.resources.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\obj\Debug\EFSRT_DELONNY.csproj.AssemblyReference.cache
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\obj\Debug\EFSRT_DELONNY.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\obj\Debug\EFSRT_DE.60F2676A.Up2Date
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\obj\Debug\EFSRT_DELONNY.dll
+C:\Users\ADM\Desktop\EFSRT\EFSRT_DELONNY\EFSRT_DELONNY\obj\Debug\EFSRT_DELONNY.pdb
