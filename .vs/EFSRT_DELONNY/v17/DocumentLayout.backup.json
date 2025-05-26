@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{A23BF00C-0861-4F53-B9AD-71ED54BDBC03}|EFSRT_DELONNY\\EFSRT_DELONNY.csproj|solutionrelative:efsrt_delonny\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AE00174-7397-4D4C-BDD9-B9164AB48DF8}|Infraestructura.SQL.Negocios\\Infraestructura.SQL.Negocios.csproj|c:\\users\\user\\delonnyefsrt\\infraestructura.sql.negocios\\productodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6AE00174-7397-4D4C-BDD9-B9164AB48DF8}|Infraestructura.SQL.Negocios\\Infraestructura.SQL.Negocios.csproj|C:\\Users\\User\\DelonnyEFSRT\\infraestructura.sql.negocios\\productodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6AE00174-7397-4D4C-BDD9-B9164AB48DF8}|Infraestructura.SQL.Negocios\\Infraestructura.SQL.Negocios.csproj|solutionrelative:infraestructura.sql.negocios\\productodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "EFSRT_DELONNY\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\User\\DelonnyEFSRT\\EFSRT_DELONNY\\Controllers\\HomeController.cs",
               "RelativeToolTip": "EFSRT_DELONNY\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-26T19:15:07.694Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "Infraestructura.SQL.Negocios\\productoDAO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T14:35:03.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T14:35:03.153Z"
             },
             {
               "$type": "Document",
