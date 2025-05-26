@@ -122,6 +122,8 @@ namespace Infraestructura.SQL.Negocios
             List<ProductoLista> tempo = new List<ProductoLista>();
             using (SqlConnection con = new SqlConnection(cadena))
             {
+                //xd
+
                 con.Open();
                 using (SqlCommand cmd = new SqlCommand("USP_LISTAR_PRODUCTOS", con))
                 {
