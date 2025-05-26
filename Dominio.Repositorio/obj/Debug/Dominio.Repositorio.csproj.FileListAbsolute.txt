@@ -4,3 +4,9 @@ J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\Dominio.Repositorio\obj\Debug\Dominio.Rep
 J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\Dominio.Repositorio\obj\Debug\Dominio.Repositorio.csproj.CoreCompileInputs.cache
 J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\Dominio.Repositorio\obj\Debug\Dominio.Repositorio.dll
 J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\Dominio.Repositorio\obj\Debug\Dominio.Repositorio.pdb
+C:\Users\User\DelonnyEFSRT\Dominio.Repositorio\bin\Debug\Dominio.Repositorio.dll
+C:\Users\User\DelonnyEFSRT\Dominio.Repositorio\bin\Debug\Dominio.Repositorio.pdb
+C:\Users\User\DelonnyEFSRT\Dominio.Repositorio\obj\Debug\Dominio.Repositorio.csproj.AssemblyReference.cache
+C:\Users\User\DelonnyEFSRT\Dominio.Repositorio\obj\Debug\Dominio.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\User\DelonnyEFSRT\Dominio.Repositorio\obj\Debug\Dominio.Repositorio.dll
+C:\Users\User\DelonnyEFSRT\Dominio.Repositorio\obj\Debug\Dominio.Repositorio.pdb

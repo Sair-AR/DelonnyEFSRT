@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\User\\DelonnyEFSRT\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A23BF00C-0861-4F53-B9AD-71ED54BDBC03}|EFSRT_DELONNY\\EFSRT_DELONNY.csproj|c:\\users\\user\\delonnyefsrt\\efsrt_delonny\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23BF00C-0861-4F53-B9AD-71ED54BDBC03}|EFSRT_DELONNY\\EFSRT_DELONNY.csproj|solutionrelative:efsrt_delonny\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6AE00174-7397-4D4C-BDD9-B9164AB48DF8}|Infraestructura.SQL.Negocios\\Infraestructura.SQL.Negocios.csproj|c:\\users\\user\\delonnyefsrt\\infraestructura.sql.negocios\\productodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6AE00174-7397-4D4C-BDD9-B9164AB48DF8}|Infraestructura.SQL.Negocios\\Infraestructura.SQL.Negocios.csproj|solutionrelative:infraestructura.sql.negocios\\productodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,19 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\DelonnyEFSRT\\EFSRT_DELONNY\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EFSRT_DELONNY\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\DelonnyEFSRT\\EFSRT_DELONNY\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EFSRT_DELONNY\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T19:15:07.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "productoDAO.cs",
               "DocumentMoniker": "C:\\Users\\User\\DelonnyEFSRT\\Infraestructura.SQL.Negocios\\productoDAO.cs",
               "RelativeDocumentMoniker": "Infraestructura.SQL.Negocios\\productoDAO.cs",
               "ToolTip": "C:\\Users\\User\\DelonnyEFSRT\\Infraestructura.SQL.Negocios\\productoDAO.cs",
               "RelativeToolTip": "Infraestructura.SQL.Negocios\\productoDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-26T14:35:03.153Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MantLstProductos.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\DelonnyEFSRT\\EFSRT_DELONNY\\Views\\Producto\\MantLstProductos.cshtml",
               "RelativeDocumentMoniker": "EFSRT_DELONNY\\Views\\Producto\\MantLstProductos.cshtml",

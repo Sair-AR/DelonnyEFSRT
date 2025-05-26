@@ -9,3 +9,14 @@ J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\Infraestructura.SQL.Negocios\obj\Debug\In
 J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\Infraestructura.SQL.Negocios\obj\Debug\Infraest.785E4CFA.Up2Date
 J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\Infraestructura.SQL.Negocios\obj\Debug\Infraestructura.SQL.Negocios.dll
 J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\Infraestructura.SQL.Negocios\obj\Debug\Infraestructura.SQL.Negocios.pdb
+C:\Users\User\DelonnyEFSRT\Infraestructura.SQL.Negocios\bin\Debug\Infraestructura.SQL.Negocios.dll
+C:\Users\User\DelonnyEFSRT\Infraestructura.SQL.Negocios\bin\Debug\Infraestructura.SQL.Negocios.pdb
+C:\Users\User\DelonnyEFSRT\Infraestructura.SQL.Negocios\bin\Debug\Dominio.Entidad.Negocio.dll
+C:\Users\User\DelonnyEFSRT\Infraestructura.SQL.Negocios\bin\Debug\Dominio.Repositorio.dll
+C:\Users\User\DelonnyEFSRT\Infraestructura.SQL.Negocios\bin\Debug\Dominio.Entidad.Negocio.pdb
+C:\Users\User\DelonnyEFSRT\Infraestructura.SQL.Negocios\bin\Debug\Dominio.Repositorio.pdb
+C:\Users\User\DelonnyEFSRT\Infraestructura.SQL.Negocios\obj\Debug\Infraestructura.SQL.Negocios.csproj.AssemblyReference.cache
+C:\Users\User\DelonnyEFSRT\Infraestructura.SQL.Negocios\obj\Debug\Infraestructura.SQL.Negocios.csproj.CoreCompileInputs.cache
+C:\Users\User\DelonnyEFSRT\Infraestructura.SQL.Negocios\obj\Debug\Infraest.785E4CFA.Up2Date
+C:\Users\User\DelonnyEFSRT\Infraestructura.SQL.Negocios\obj\Debug\Infraestructura.SQL.Negocios.dll
+C:\Users\User\DelonnyEFSRT\Infraestructura.SQL.Negocios\obj\Debug\Infraestructura.SQL.Negocios.pdb

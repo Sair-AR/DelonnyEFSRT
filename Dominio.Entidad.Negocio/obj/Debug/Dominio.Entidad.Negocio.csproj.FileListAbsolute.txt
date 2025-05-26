@@ -7,3 +7,12 @@ J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\Dominio.Entidad.Negocio\obj\Debug\Dominio
 J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\Dominio.Entidad.Negocio\obj\Debug\Dominio..C004B7DB.Up2Date
 J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\Dominio.Entidad.Negocio\obj\Debug\Dominio.Entidad.Negocio.dll
 J:\REBECA 2025\.NET - VS\EFSRT_DELONNY\Dominio.Entidad.Negocio\obj\Debug\Dominio.Entidad.Negocio.pdb
+C:\Users\User\DelonnyEFSRT\Dominio.Entidad.Negocio\bin\Debug\Dominio.Entidad.Negocio.dll
+C:\Users\User\DelonnyEFSRT\Dominio.Entidad.Negocio\bin\Debug\Dominio.Entidad.Negocio.pdb
+C:\Users\User\DelonnyEFSRT\Dominio.Entidad.Negocio\bin\Debug\Dominio.Repositorio.dll
+C:\Users\User\DelonnyEFSRT\Dominio.Entidad.Negocio\bin\Debug\Dominio.Repositorio.pdb
+C:\Users\User\DelonnyEFSRT\Dominio.Entidad.Negocio\obj\Debug\Dominio.Entidad.Negocio.csproj.AssemblyReference.cache
+C:\Users\User\DelonnyEFSRT\Dominio.Entidad.Negocio\obj\Debug\Dominio.Entidad.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\User\DelonnyEFSRT\Dominio.Entidad.Negocio\obj\Debug\Dominio..C004B7DB.Up2Date
+C:\Users\User\DelonnyEFSRT\Dominio.Entidad.Negocio\obj\Debug\Dominio.Entidad.Negocio.dll
+C:\Users\User\DelonnyEFSRT\Dominio.Entidad.Negocio\obj\Debug\Dominio.Entidad.Negocio.pdb
